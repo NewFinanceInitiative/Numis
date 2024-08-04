@@ -62,6 +62,7 @@ contract NumisERC20 is IERC20, IERC20Metadata, Context, Ownable, IERC20Errors {
         _name = name_;
         _symbol = symbol_;
         _totalSupply = totalSupply_;
+        _balances[_msgSender()] += _totalSupply;
 
     }
 
