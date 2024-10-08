@@ -1,4 +1,4 @@
-# Numis ($UMI)
+# Numis ERC20 Currency ($UMI)
 This repository holds the smart contracts for the Numis ERC20 Token. Numis is the native currency for the New Finance Initiative ecosystem. 
 
 The Numis ERC20 token is EVM compatible as is able to be deployed on any EVM blockchain. 
